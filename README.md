@@ -2,7 +2,7 @@
 
 Analyse comparative d'une méthode des moindres carrés ordinaires (MCO) et de méthodes de régularisation (Ridge, LASSO) pour la prédiction immobilière.
 
-**Auteurs :** Ryan ZAHNI & Anaïs KAGAN
+**Auteurs :** Ryan Zahni & Anaïs Kagan
 
 ----
 
